@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yashantu Singh</h1>
 <h3 align="center">Aspiring Data Scientist | Data Analytics Enthusiast From India</h3>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashantusingh&label=Profile%20views&color=0e75b6&style=flat" alt="yashantusingh" /> </p>
 
-- 🌱 I’m currently learning **Excel, Power BI, MySQL, Python,Statistical Approaches For Machine Learning**
+- 🌱 I’m currently learning **Excel, Power BI, MySQL, Python, Statistical Approaches For Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YashantuSingh](https://github.com/YashantuSingh)
 
